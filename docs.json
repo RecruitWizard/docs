@@ -52,6 +52,7 @@
         "groups": [
           {
             "group": "API documentation",
+            "openapi": "https://recruitwizard.app/swagger/v1/swagger.json",
             "pages": [
               "api-reference/introduction"
             ]
